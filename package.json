@@ -1,0 +1,12 @@
+{
+  "name": "mini-browser",
+  "version": "1.0.0",
+  "description": "Chromium browser with built-in View Source and Network inspector",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^38.0.0"
+  }
+}
